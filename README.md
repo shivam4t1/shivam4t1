@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam4t1 
+- 👋 Hi, I’m Shivam
 - 👀 I’m interested in Programming and Anime
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on building small projects

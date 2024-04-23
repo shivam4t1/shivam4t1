@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shivam
-- 👀 I’m interested in Programming and Anime
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on building small projects
+- 👀 I’m interested in something that Idk 
+- 🌱 I’m currently Procrastinating Web Development
 - 📫 You can message me on instagram @shivamj_13
 
 <!---
